@@ -1,3 +1,8 @@
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+
+import App from './App';
+
 const express= require('express');
 const app=express();
 const port=8008;
